@@ -1,0 +1,2867 @@
+2024-09-27 10:41:16,518 - INFO - Received output after sending command 'C'
+2024-09-27 10:41:16,569 - INFO - Detached from screen session: TPC
+2024-09-27 10:41:16,677 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 10:41:16,678 - INFO - Channel info line: Ch0      0000.00  +0000.718 uA   0100.00  1000.00 uA    Off
+2024-09-27 10:41:16,678 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:16,678 - INFO - Channel info line: Ch1      0000.12  +0000.019 uA   0030.00  0105.00 uA    Off
+2024-09-27 10:41:16,678 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.019",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:16,678 - INFO - Channel info line: Ch2      0000.06  +0000.145 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:16,679 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.019",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:16,679 - INFO - Channel info line: Ch3      0000.26  +0000.057 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:16,679 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.019",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:16,679 - INFO - Channel info line: Ch4      0000.08  +0000.031 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:16,679 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.019",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.031",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:16,679 - INFO - Channel info line: Ch5      0000.20  +0000.068 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:16,680 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.019",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.031",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:16,680 - INFO - Channel info line: Ch6      0001.76  -0002.175 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:16,680 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.019",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.031",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": "0001.76",
+        "Imon": "-0002.175",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:16,680 - INFO - Channel info line: Ch7      0000.06  +0000.001 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:16,680 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.019",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.031",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": "0001.76",
+        "Imon": "-0002.175",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "7",
+        "Vmon": "0000.06",
+        "Imon": "0000.001",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:16,681 - INFO - JSON file to be inserted in DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.019",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.031",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": "0001.76",
+        "Imon": "-0002.175",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "7",
+        "Vmon": "0000.06",
+        "Imon": "0000.001",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:27,159 - INFO - Stopped periodic hardcopy creation.
+2024-09-27 10:41:28,812 - INFO - Checking for existing screen sessions.
+2024-09-27 10:41:28,815 - INFO - Removed screen session: 55607.TPC
+2024-09-27 10:41:28,817 - INFO - Started screen session: TPC
+2024-09-27 10:41:28,820 - INFO - Connecting to telnet 172.18.4.215:1470 in session: TPC
+2024-09-27 10:41:33,891 - INFO - Sent command "caen" to session: TPC
+2024-09-27 10:41:35,945 - INFO - Sent command "d" to session: TPC
+2024-09-27 10:41:45,953 - INFO - Received output after sending command 'C'
+2024-09-27 10:41:46,004 - INFO - Detached from screen session: TPC
+2024-09-27 10:41:46,116 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 10:41:46,118 - INFO - Channel info line: Ch0      0000.00  +0000.718 uA   0100.00  1000.00 uA    Off
+2024-09-27 10:41:46,119 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:46,119 - INFO - Channel info line: Ch1      0000.12  +0000.017 uA   0030.00  0105.00 uA    Off
+2024-09-27 10:41:46,119 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.017",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:46,119 - INFO - Channel info line: Ch2      0000.06  +0000.145 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:46,120 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.017",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:46,120 - INFO - Channel info line: Ch3      0000.26  +0000.057 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:46,120 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.017",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:46,120 - INFO - Channel info line: Ch4      0000.08  +0000.031 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:46,121 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.017",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.031",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:46,121 - INFO - Channel info line: Ch5      0000.20  +0000.068 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:46,121 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.017",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.031",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:46,122 - INFO - Channel info line: Ch6      0001.76  -0002.182 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:46,122 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.017",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.031",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": "0001.76",
+        "Imon": "-0002.182",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:46,122 - INFO - Channel info line: Ch7      0000.06  +0000.001 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:41:46,122 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.017",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.031",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": "0001.76",
+        "Imon": "-0002.182",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "7",
+        "Vmon": "0000.06",
+        "Imon": "0000.001",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:41:46,123 - INFO - JSON file to be inserted in DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.017",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.031",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": "0001.76",
+        "Imon": "-0002.182",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "7",
+        "Vmon": "0000.06",
+        "Imon": "0000.001",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:42:46,190 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 10:42:46,191 - INFO - Channel info line: Ch0      0000.00  +0000.718 uA   0100.00  1000.00 uA    Off
+2024-09-27 10:42:46,191 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:42:46,191 - INFO - Channel info line: Ch1      0000.12  +0000.008 uA   0030.00  0105.00 uA    Off
+2024-09-27 10:42:46,191 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.008",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:42:46,191 - INFO - Channel info line: Ch2      0000.06  +0000.145 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:42:46,192 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.008",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:42:46,192 - INFO - Channel info line: Ch3      0000.26  +0000.057 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:42:46,192 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.008",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:42:46,192 - INFO - Channel info line: Ch4      0000.08  +0000.032 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:42:46,192 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.008",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.032",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:42:46,193 - INFO - Channel info line: Ch5      0000.20  +0000.068 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:42:46,193 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.008",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.032",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:42:46,193 - INFO - Channel info line: Ch6      0001.76  -0002.182 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:42:46,193 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.008",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.032",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": "0001.76",
+        "Imon": "-0002.182",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:42:46,193 - INFO - Channel info line: Ch7      0000.06  +0000.001 uA   0100.00  0105.00 uA    Off
+2024-09-27 10:42:46,194 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.008",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.032",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": "0001.76",
+        "Imon": "-0002.182",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "7",
+        "Vmon": "0000.06",
+        "Imon": "0000.001",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:42:46,194 - INFO - JSON file to be inserted in DB: [
+    {
+        "channel": "0",
+        "Vmon": "0000.00",
+        "Imon": "0000.718",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": "0000.12",
+        "Imon": "0000.008",
+        "Vset": "uA",
+        "Iset": "0030.00",
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": "0000.06",
+        "Imon": "0000.145",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": "0000.26",
+        "Imon": "0000.057",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": "0000.08",
+        "Imon": "0000.032",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": "0000.20",
+        "Imon": "0000.068",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": "0001.76",
+        "Imon": "-0002.182",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    },
+    {
+        "channel": "7",
+        "Vmon": "0000.06",
+        "Imon": "0000.001",
+        "Vset": "uA",
+        "Iset": "0100.00",
+        "Pw": false
+    }
+]
+2024-09-27 10:43:16,063 - INFO - Stopped periodic hardcopy creation.
+2024-09-27 11:58:19,303 - INFO - Checking for existing screen sessions.
+2024-09-27 11:58:19,305 - INFO - Removed screen session: 55856.TPC
+2024-09-27 11:58:19,308 - INFO - Started screen session: TPC
+2024-09-27 11:58:19,311 - INFO - Connecting to telnet 172.18.4.215:1470 in session: TPC
+2024-09-27 11:58:24,379 - INFO - Sent command "caen" to session: TPC
+2024-09-27 11:58:26,433 - INFO - Sent command "d" to session: TPC
+2024-09-27 11:58:36,444 - INFO - Received output after sending command 'C'
+2024-09-27 11:58:36,495 - INFO - Detached from screen session: TPC
+2024-09-27 11:58:36,607 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 11:58:36,609 - INFO - Channel info line: Ch0      0000.00  +0000.718 uA   0100.00  1000.00 uA    Off
+2024-09-27 12:11:00,833 - INFO - Checking for existing screen sessions.
+2024-09-27 12:11:00,835 - INFO - Removed screen session: 57627.TPC
+2024-09-27 12:11:00,838 - INFO - Started screen session: TPC
+2024-09-27 12:11:00,841 - INFO - Connecting to telnet 172.18.4.215:1470 in session: TPC
+2024-09-27 12:11:05,905 - INFO - Sent command "caen" to session: TPC
+2024-09-27 12:11:07,958 - INFO - Sent command "d" to session: TPC
+2024-09-27 12:11:17,970 - INFO - Received output after sending command 'C'
+2024-09-27 12:11:18,021 - INFO - Detached from screen session: TPC
+2024-09-27 12:11:18,131 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 12:11:18,133 - INFO - Channel info line: Ch0      0000.00  +0000.728 uA   0100.00  1000.00 uA    Off
+2024-09-27 12:11:18,134 - INFO - channel json: {'channel': '0', 'Vmon': 0.0, 'Imon': 0.728, 'Vset': 100.0, 'Iset': 1000.0, 'Pw': False}
+2024-09-27 12:11:18,134 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.728,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:11:18,134 - INFO - Channel info line: Ch1      0000.12  +0000.043 uA   0030.00  0105.00 uA    Off
+2024-09-27 12:11:18,135 - INFO - channel json: {'channel': '1', 'Vmon': 0.12, 'Imon': 0.043, 'Vset': 30.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:11:18,135 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.728,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": 0.12,
+        "Imon": 0.043,
+        "Vset": 30.0,
+        "Iset": 105.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:11:18,135 - INFO - Channel info line: Ch2      0000.06  +0000.136 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:11:18,135 - INFO - channel json: {'channel': '2', 'Vmon': 0.06, 'Imon': 0.136, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:11:18,136 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.728,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": 0.12,
+        "Imon": 0.043,
+        "Vset": 30.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": 0.06,
+        "Imon": 0.136,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:11:18,136 - INFO - Channel info line: Ch3      0000.26  +0000.037 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:11:18,136 - INFO - channel json: {'channel': '3', 'Vmon': 0.26, 'Imon': 0.037, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:11:18,137 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.728,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": 0.12,
+        "Imon": 0.043,
+        "Vset": 30.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": 0.06,
+        "Imon": 0.136,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": 0.26,
+        "Imon": 0.037,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:11:18,137 - INFO - Channel info line: Ch4      0000.08  +0000.044 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:11:18,137 - INFO - channel json: {'channel': '4', 'Vmon': 0.08, 'Imon': 0.044, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:11:18,138 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.728,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": 0.12,
+        "Imon": 0.043,
+        "Vset": 30.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": 0.06,
+        "Imon": 0.136,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": 0.26,
+        "Imon": 0.037,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": 0.08,
+        "Imon": 0.044,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:11:18,138 - INFO - Channel info line: Ch5      0000.20  +0000.057 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:11:18,138 - INFO - channel json: {'channel': '5', 'Vmon': 0.2, 'Imon': 0.057, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:11:18,139 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.728,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": 0.12,
+        "Imon": 0.043,
+        "Vset": 30.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": 0.06,
+        "Imon": 0.136,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": 0.26,
+        "Imon": 0.037,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": 0.08,
+        "Imon": 0.044,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": 0.2,
+        "Imon": 0.057,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:11:18,139 - INFO - Channel info line: Ch6      0001.76  -0002.161 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:11:18,139 - INFO - channel json: {'channel': '6', 'Vmon': 1.76, 'Imon': -2.161, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:11:18,140 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.728,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": 0.12,
+        "Imon": 0.043,
+        "Vset": 30.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": 0.06,
+        "Imon": 0.136,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": 0.26,
+        "Imon": 0.037,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": 0.08,
+        "Imon": 0.044,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": 0.2,
+        "Imon": 0.057,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": 1.76,
+        "Imon": -2.161,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:11:18,140 - INFO - Channel info line: Ch7      0000.06  +0000.021 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:11:18,141 - INFO - channel json: {'channel': '7', 'Vmon': 0.06, 'Imon': 0.021, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:11:18,142 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.728,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": 0.12,
+        "Imon": 0.043,
+        "Vset": 30.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": 0.06,
+        "Imon": 0.136,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": 0.26,
+        "Imon": 0.037,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": 0.08,
+        "Imon": 0.044,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": 0.2,
+        "Imon": 0.057,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": 1.76,
+        "Imon": -2.161,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "7",
+        "Vmon": 0.06,
+        "Imon": 0.021,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:11:18,142 - INFO - JSON file to be inserted in DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.728,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": 0.12,
+        "Imon": 0.043,
+        "Vset": 30.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": 0.06,
+        "Imon": 0.136,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": 0.26,
+        "Imon": 0.037,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": 0.08,
+        "Imon": 0.044,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": 0.2,
+        "Imon": 0.057,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": 1.76,
+        "Imon": -2.161,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "7",
+        "Vmon": 0.06,
+        "Imon": 0.021,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:11:50,519 - INFO - Stopped periodic hardcopy creation.
+2024-09-27 12:11:51,820 - INFO - Checking for existing screen sessions.
+2024-09-27 12:11:51,823 - INFO - Removed screen session: 58020.TPC
+2024-09-27 12:11:51,827 - INFO - Started screen session: TPC
+2024-09-27 12:11:51,830 - INFO - Connecting to telnet 172.18.4.215:1470 in session: TPC
+2024-09-27 12:11:56,894 - INFO - Sent command "caen" to session: TPC
+2024-09-27 12:11:58,947 - INFO - Sent command "d" to session: TPC
+2024-09-27 12:12:08,958 - INFO - Received output after sending command 'C'
+2024-09-27 12:12:09,009 - INFO - Detached from screen session: TPC
+2024-09-27 12:12:09,117 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 12:12:09,118 - INFO - Channel info line: Ch0      0000.00  +0000.720 uA   0100.00  1000.00 uA    Off
+2024-09-27 12:12:09,118 - INFO - channel json: {'channel': '0', 'Vmon': 0.0, 'Imon': 0.72, 'Vset': 100.0, 'Iset': 1000.0, 'Pw': False}
+2024-09-27 12:12:09,119 - INFO - Channel info line: Ch1      0000.12  +0000.043 uA   0030.00  0105.00 uA    Off
+2024-09-27 12:12:09,119 - INFO - channel json: {'channel': '1', 'Vmon': 0.12, 'Imon': 0.043, 'Vset': 30.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:12:09,119 - INFO - Channel info line: Ch2      0000.06  +0000.136 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:12:09,119 - INFO - channel json: {'channel': '2', 'Vmon': 0.06, 'Imon': 0.136, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:12:09,119 - INFO - Channel info line: Ch3      0000.26  +0000.037 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:12:09,120 - INFO - channel json: {'channel': '3', 'Vmon': 0.26, 'Imon': 0.037, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:12:09,120 - INFO - Channel info line: Ch4      0000.08  +0000.044 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:12:09,120 - INFO - channel json: {'channel': '4', 'Vmon': 0.08, 'Imon': 0.044, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:12:09,120 - INFO - Channel info line: Ch5      0000.20  +0000.057 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:12:09,120 - INFO - channel json: {'channel': '5', 'Vmon': 0.2, 'Imon': 0.057, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:12:09,121 - INFO - Channel info line: Ch6      0001.76  -0002.161 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:12:09,121 - INFO - channel json: {'channel': '6', 'Vmon': 1.76, 'Imon': -2.161, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:12:09,121 - INFO - Channel info line: Ch7      0000.06  +0000.021 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:12:09,121 - INFO - channel json: {'channel': '7', 'Vmon': 0.06, 'Imon': 0.021, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}
+2024-09-27 12:12:09,122 - INFO - JSON for DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.72,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": 0.12,
+        "Imon": 0.043,
+        "Vset": 30.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": 0.06,
+        "Imon": 0.136,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": 0.26,
+        "Imon": 0.037,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": 0.08,
+        "Imon": 0.044,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": 0.2,
+        "Imon": 0.057,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": 1.76,
+        "Imon": -2.161,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "7",
+        "Vmon": 0.06,
+        "Imon": 0.021,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:12:09,122 - INFO - JSON file to be inserted in DB: [
+    {
+        "channel": "0",
+        "Vmon": 0.0,
+        "Imon": 0.72,
+        "Vset": 100.0,
+        "Iset": 1000.0,
+        "Pw": false
+    },
+    {
+        "channel": "1",
+        "Vmon": 0.12,
+        "Imon": 0.043,
+        "Vset": 30.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "2",
+        "Vmon": 0.06,
+        "Imon": 0.136,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "3",
+        "Vmon": 0.26,
+        "Imon": 0.037,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "4",
+        "Vmon": 0.08,
+        "Imon": 0.044,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "5",
+        "Vmon": 0.2,
+        "Imon": 0.057,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "6",
+        "Vmon": 1.76,
+        "Imon": -2.161,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    },
+    {
+        "channel": "7",
+        "Vmon": 0.06,
+        "Imon": 0.021,
+        "Vset": 100.0,
+        "Iset": 105.0,
+        "Pw": false
+    }
+]
+2024-09-27 12:12:25,994 - INFO - Stopped periodic hardcopy creation.
+2024-09-27 12:16:58,143 - INFO - Checking for existing screen sessions.
+2024-09-27 12:16:58,146 - INFO - Removed screen session: 58276.TPC
+2024-09-27 12:16:58,148 - INFO - Started screen session: TPC
+2024-09-27 12:16:58,151 - INFO - Connecting to telnet 172.18.4.215:1470 in session: TPC
+2024-09-27 12:17:03,221 - INFO - Sent command "caen" to session: TPC
+2024-09-27 12:17:05,275 - INFO - Sent command "d" to session: TPC
+2024-09-27 12:17:15,286 - INFO - Received output after sending command 'C'
+2024-09-27 12:17:15,337 - INFO - Detached from screen session: TPC
+2024-09-27 12:17:15,447 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 12:17:15,449 - INFO - Channel info line: Ch0      0000.00  +0000.720 uA   0100.00  1000.00 uA    Off
+2024-09-27 12:17:15,450 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '0'}, 'fields': {'Vmon': 0.0, 'Imon': 0.72, 'Vset': 100.0, 'Iset': 1000.0, 'Pw': False}}
+2024-09-27 12:17:15,450 - INFO - Channel info line: Ch1      0000.12  +0000.042 uA   0030.00  0105.00 uA    Off
+2024-09-27 12:17:15,450 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '1'}, 'fields': {'Vmon': 0.12, 'Imon': 0.042, 'Vset': 30.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:17:15,451 - INFO - Channel info line: Ch2      0000.06  +0000.136 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:17:15,451 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '2'}, 'fields': {'Vmon': 0.06, 'Imon': 0.136, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:17:15,451 - INFO - Channel info line: Ch3      0000.26  +0000.036 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:17:15,452 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '3'}, 'fields': {'Vmon': 0.26, 'Imon': 0.036, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:17:15,452 - INFO - Channel info line: Ch4      0000.08  +0000.047 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:17:15,452 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '4'}, 'fields': {'Vmon': 0.08, 'Imon': 0.047, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:17:15,453 - INFO - Channel info line: Ch5      0000.20  +0000.057 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:17:15,453 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '5'}, 'fields': {'Vmon': 0.2, 'Imon': 0.057, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:17:15,454 - INFO - Channel info line: Ch6      0001.76  -0002.161 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:17:15,454 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '6'}, 'fields': {'Vmon': 1.76, 'Imon': -2.161, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:17:15,455 - INFO - Channel info line: Ch7      0000.06  +0000.021 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:17:15,455 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '7'}, 'fields': {'Vmon': 0.06, 'Imon': 0.021, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:17:15,456 - INFO - JSON for DB: [
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "0"
+        },
+        "fields": {
+            "Vmon": 0.0,
+            "Imon": 0.72,
+            "Vset": 100.0,
+            "Iset": 1000.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "1"
+        },
+        "fields": {
+            "Vmon": 0.12,
+            "Imon": 0.042,
+            "Vset": 30.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "2"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.136,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "3"
+        },
+        "fields": {
+            "Vmon": 0.26,
+            "Imon": 0.036,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "4"
+        },
+        "fields": {
+            "Vmon": 0.08,
+            "Imon": 0.047,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "5"
+        },
+        "fields": {
+            "Vmon": 0.2,
+            "Imon": 0.057,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "6"
+        },
+        "fields": {
+            "Vmon": 1.76,
+            "Imon": -2.161,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "7"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.021,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    }
+]
+2024-09-27 12:17:15,456 - INFO - JSON file to be inserted in DB: [
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "0"
+        },
+        "fields": {
+            "Vmon": 0.0,
+            "Imon": 0.72,
+            "Vset": 100.0,
+            "Iset": 1000.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "1"
+        },
+        "fields": {
+            "Vmon": 0.12,
+            "Imon": 0.042,
+            "Vset": 30.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "2"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.136,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "3"
+        },
+        "fields": {
+            "Vmon": 0.26,
+            "Imon": 0.036,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "4"
+        },
+        "fields": {
+            "Vmon": 0.08,
+            "Imon": 0.047,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "5"
+        },
+        "fields": {
+            "Vmon": 0.2,
+            "Imon": 0.057,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "6"
+        },
+        "fields": {
+            "Vmon": 1.76,
+            "Imon": -2.161,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "7"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.021,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    }
+]
+2024-09-27 12:18:15,470 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 12:18:15,472 - INFO - Channel info line: Ch0      0000.00  +0000.723 uA   0100.00  1000.00 uA    Off
+2024-09-27 12:18:15,472 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '0'}, 'fields': {'Vmon': 0.0, 'Imon': 0.723, 'Vset': 100.0, 'Iset': 1000.0, 'Pw': False}}
+2024-09-27 12:18:15,473 - INFO - Channel info line: Ch1      0000.12  +0000.042 uA   0030.00  0105.00 uA    Off
+2024-09-27 12:18:15,473 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '1'}, 'fields': {'Vmon': 0.12, 'Imon': 0.042, 'Vset': 30.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:18:15,474 - INFO - Channel info line: Ch2      0000.06  +0000.136 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:18:15,474 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '2'}, 'fields': {'Vmon': 0.06, 'Imon': 0.136, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:18:15,475 - INFO - Channel info line: Ch3      0000.26  +0000.036 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:18:15,475 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '3'}, 'fields': {'Vmon': 0.26, 'Imon': 0.036, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:18:15,476 - INFO - Channel info line: Ch4      0000.08  +0000.048 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:18:15,476 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '4'}, 'fields': {'Vmon': 0.08, 'Imon': 0.048, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:18:15,476 - INFO - Channel info line: Ch5      0000.20  +0000.057 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:18:15,476 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '5'}, 'fields': {'Vmon': 0.2, 'Imon': 0.057, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:18:15,477 - INFO - Channel info line: Ch6      0001.76  -0002.161 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:18:15,477 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '6'}, 'fields': {'Vmon': 1.76, 'Imon': -2.161, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:18:15,477 - INFO - Channel info line: Ch7      0000.06  +0000.021 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:18:15,477 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '7'}, 'fields': {'Vmon': 0.06, 'Imon': 0.021, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:18:15,478 - INFO - JSON for DB: [
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "0"
+        },
+        "fields": {
+            "Vmon": 0.0,
+            "Imon": 0.723,
+            "Vset": 100.0,
+            "Iset": 1000.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "1"
+        },
+        "fields": {
+            "Vmon": 0.12,
+            "Imon": 0.042,
+            "Vset": 30.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "2"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.136,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "3"
+        },
+        "fields": {
+            "Vmon": 0.26,
+            "Imon": 0.036,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "4"
+        },
+        "fields": {
+            "Vmon": 0.08,
+            "Imon": 0.048,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "5"
+        },
+        "fields": {
+            "Vmon": 0.2,
+            "Imon": 0.057,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "6"
+        },
+        "fields": {
+            "Vmon": 1.76,
+            "Imon": -2.161,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "7"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.021,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    }
+]
+2024-09-27 12:18:15,478 - INFO - JSON file to be inserted in DB: [
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "0"
+        },
+        "fields": {
+            "Vmon": 0.0,
+            "Imon": 0.723,
+            "Vset": 100.0,
+            "Iset": 1000.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "1"
+        },
+        "fields": {
+            "Vmon": 0.12,
+            "Imon": 0.042,
+            "Vset": 30.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "2"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.136,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "3"
+        },
+        "fields": {
+            "Vmon": 0.26,
+            "Imon": 0.036,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "4"
+        },
+        "fields": {
+            "Vmon": 0.08,
+            "Imon": 0.048,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "5"
+        },
+        "fields": {
+            "Vmon": 0.2,
+            "Imon": 0.057,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "6"
+        },
+        "fields": {
+            "Vmon": 1.76,
+            "Imon": -2.161,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "7"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.021,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    }
+]
+2024-09-27 12:19:15,495 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 12:19:15,497 - INFO - Channel info line: Ch0      0000.00  +0000.723 uA   0100.00  1000.00 uA    Off
+2024-09-27 12:19:15,497 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '0'}, 'fields': {'Vmon': 0.0, 'Imon': 0.723, 'Vset': 100.0, 'Iset': 1000.0, 'Pw': False}}
+2024-09-27 12:19:15,498 - INFO - Channel info line: Ch1      0000.12  +0000.042 uA   0030.00  0105.00 uA    Off
+2024-09-27 12:19:15,498 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '1'}, 'fields': {'Vmon': 0.12, 'Imon': 0.042, 'Vset': 30.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:19:15,499 - INFO - Channel info line: Ch2      0000.06  +0000.136 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:19:15,499 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '2'}, 'fields': {'Vmon': 0.06, 'Imon': 0.136, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:19:15,499 - INFO - Channel info line: Ch3      0000.26  +0000.036 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:19:15,500 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '3'}, 'fields': {'Vmon': 0.26, 'Imon': 0.036, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:19:15,500 - INFO - Channel info line: Ch4      0000.08  +0000.048 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:19:15,500 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '4'}, 'fields': {'Vmon': 0.08, 'Imon': 0.048, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:19:15,501 - INFO - Channel info line: Ch5      0000.20  +0000.057 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:19:15,501 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '5'}, 'fields': {'Vmon': 0.2, 'Imon': 0.057, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:19:15,502 - INFO - Channel info line: Ch6      0001.76  -0002.161 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:19:15,502 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '6'}, 'fields': {'Vmon': 1.76, 'Imon': -2.161, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:19:15,503 - INFO - Channel info line: Ch7      0000.06  +0000.021 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:19:15,503 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '7'}, 'fields': {'Vmon': 0.06, 'Imon': 0.021, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:19:15,504 - INFO - JSON for DB: [
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "0"
+        },
+        "fields": {
+            "Vmon": 0.0,
+            "Imon": 0.723,
+            "Vset": 100.0,
+            "Iset": 1000.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "1"
+        },
+        "fields": {
+            "Vmon": 0.12,
+            "Imon": 0.042,
+            "Vset": 30.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "2"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.136,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "3"
+        },
+        "fields": {
+            "Vmon": 0.26,
+            "Imon": 0.036,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "4"
+        },
+        "fields": {
+            "Vmon": 0.08,
+            "Imon": 0.048,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "5"
+        },
+        "fields": {
+            "Vmon": 0.2,
+            "Imon": 0.057,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "6"
+        },
+        "fields": {
+            "Vmon": 1.76,
+            "Imon": -2.161,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "7"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.021,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    }
+]
+2024-09-27 12:19:15,504 - INFO - JSON file to be inserted in DB: [
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "0"
+        },
+        "fields": {
+            "Vmon": 0.0,
+            "Imon": 0.723,
+            "Vset": 100.0,
+            "Iset": 1000.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "1"
+        },
+        "fields": {
+            "Vmon": 0.12,
+            "Imon": 0.042,
+            "Vset": 30.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "2"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.136,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "3"
+        },
+        "fields": {
+            "Vmon": 0.26,
+            "Imon": 0.036,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "4"
+        },
+        "fields": {
+            "Vmon": 0.08,
+            "Imon": 0.048,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "5"
+        },
+        "fields": {
+            "Vmon": 0.2,
+            "Imon": 0.057,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "6"
+        },
+        "fields": {
+            "Vmon": 1.76,
+            "Imon": -2.161,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "7"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.021,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    }
+]
+2024-09-27 12:20:15,574 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 12:20:15,574 - INFO - Channel info line: Ch0      0000.00  +0000.723 uA   0100.00  1000.00 uA    Off
+2024-09-27 12:20:15,574 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '0'}, 'fields': {'Vmon': 0.0, 'Imon': 0.723, 'Vset': 100.0, 'Iset': 1000.0, 'Pw': False}}
+2024-09-27 12:20:15,575 - INFO - Channel info line: Ch1      0000.12  +0000.042 uA   0030.00  0105.00 uA    Off
+2024-09-27 12:20:15,575 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '1'}, 'fields': {'Vmon': 0.12, 'Imon': 0.042, 'Vset': 30.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:20:15,575 - INFO - Channel info line: Ch2      0000.06  +0000.136 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:20:15,575 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '2'}, 'fields': {'Vmon': 0.06, 'Imon': 0.136, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:20:15,575 - INFO - Channel info line: Ch3      0000.26  +0000.037 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:20:15,575 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '3'}, 'fields': {'Vmon': 0.26, 'Imon': 0.037, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:20:15,576 - INFO - Channel info line: Ch4      0000.08  +0000.048 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:20:15,576 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '4'}, 'fields': {'Vmon': 0.08, 'Imon': 0.048, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:20:15,576 - INFO - Channel info line: Ch5      0000.20  +0000.057 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:20:15,576 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '5'}, 'fields': {'Vmon': 0.2, 'Imon': 0.057, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:20:15,576 - INFO - Channel info line: Ch6      0001.76  -0002.161 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:20:15,576 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '6'}, 'fields': {'Vmon': 1.76, 'Imon': -2.161, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:20:15,577 - INFO - Channel info line: Ch7      0000.06  +0000.036 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:20:15,577 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '7'}, 'fields': {'Vmon': 0.06, 'Imon': 0.036, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:20:15,577 - INFO - JSON for DB: [
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "0"
+        },
+        "fields": {
+            "Vmon": 0.0,
+            "Imon": 0.723,
+            "Vset": 100.0,
+            "Iset": 1000.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "1"
+        },
+        "fields": {
+            "Vmon": 0.12,
+            "Imon": 0.042,
+            "Vset": 30.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "2"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.136,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "3"
+        },
+        "fields": {
+            "Vmon": 0.26,
+            "Imon": 0.037,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "4"
+        },
+        "fields": {
+            "Vmon": 0.08,
+            "Imon": 0.048,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "5"
+        },
+        "fields": {
+            "Vmon": 0.2,
+            "Imon": 0.057,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "6"
+        },
+        "fields": {
+            "Vmon": 1.76,
+            "Imon": -2.161,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "7"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.036,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    }
+]
+2024-09-27 12:20:15,577 - INFO - JSON file to be inserted in DB: [
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "0"
+        },
+        "fields": {
+            "Vmon": 0.0,
+            "Imon": 0.723,
+            "Vset": 100.0,
+            "Iset": 1000.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "1"
+        },
+        "fields": {
+            "Vmon": 0.12,
+            "Imon": 0.042,
+            "Vset": 30.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "2"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.136,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "3"
+        },
+        "fields": {
+            "Vmon": 0.26,
+            "Imon": 0.037,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "4"
+        },
+        "fields": {
+            "Vmon": 0.08,
+            "Imon": 0.048,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "5"
+        },
+        "fields": {
+            "Vmon": 0.2,
+            "Imon": 0.057,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "6"
+        },
+        "fields": {
+            "Vmon": 1.76,
+            "Imon": -2.161,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "7"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.036,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    }
+]
+2024-09-27 12:21:15,647 - INFO - Created hardcopy: /home/vtoma/hardcopy.0
+2024-09-27 12:21:15,649 - INFO - Channel info line: Ch0      0000.00  +0000.723 uA   0100.00  1000.00 uA    Off
+2024-09-27 12:21:15,649 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '0'}, 'fields': {'Vmon': 0.0, 'Imon': 0.723, 'Vset': 100.0, 'Iset': 1000.0, 'Pw': False}}
+2024-09-27 12:21:15,650 - INFO - Channel info line: Ch1      0000.12  +0000.038 uA   0030.00  0105.00 uA    Off
+2024-09-27 12:21:15,650 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '1'}, 'fields': {'Vmon': 0.12, 'Imon': 0.038, 'Vset': 30.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:21:15,651 - INFO - Channel info line: Ch2      0000.06  +0000.136 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:21:15,651 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '2'}, 'fields': {'Vmon': 0.06, 'Imon': 0.136, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:21:15,652 - INFO - Channel info line: Ch3      0000.26  +0000.037 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:21:15,653 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '3'}, 'fields': {'Vmon': 0.26, 'Imon': 0.037, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:21:15,653 - INFO - Channel info line: Ch4      0000.08  +0000.048 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:21:15,654 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '4'}, 'fields': {'Vmon': 0.08, 'Imon': 0.048, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:21:15,655 - INFO - Channel info line: Ch5      0000.20  +0000.057 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:21:15,655 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '5'}, 'fields': {'Vmon': 0.2, 'Imon': 0.057, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:21:15,656 - INFO - Channel info line: Ch6      0001.76  -0002.161 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:21:15,656 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '6'}, 'fields': {'Vmon': 1.76, 'Imon': -2.161, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:21:15,657 - INFO - Channel info line: Ch7      0000.06  +0000.039 uA   0100.00  0105.00 uA    Off
+2024-09-27 12:21:15,657 - INFO - channel json: {'measurement': 'DT1415', 'tags': {'channel': '7'}, 'fields': {'Vmon': 0.06, 'Imon': 0.039, 'Vset': 100.0, 'Iset': 105.0, 'Pw': False}}
+2024-09-27 12:21:15,658 - INFO - JSON for DB: [
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "0"
+        },
+        "fields": {
+            "Vmon": 0.0,
+            "Imon": 0.723,
+            "Vset": 100.0,
+            "Iset": 1000.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "1"
+        },
+        "fields": {
+            "Vmon": 0.12,
+            "Imon": 0.038,
+            "Vset": 30.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "2"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.136,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "3"
+        },
+        "fields": {
+            "Vmon": 0.26,
+            "Imon": 0.037,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "4"
+        },
+        "fields": {
+            "Vmon": 0.08,
+            "Imon": 0.048,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "5"
+        },
+        "fields": {
+            "Vmon": 0.2,
+            "Imon": 0.057,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "6"
+        },
+        "fields": {
+            "Vmon": 1.76,
+            "Imon": -2.161,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "7"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.039,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    }
+]
+2024-09-27 12:21:15,659 - INFO - JSON file to be inserted in DB: [
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "0"
+        },
+        "fields": {
+            "Vmon": 0.0,
+            "Imon": 0.723,
+            "Vset": 100.0,
+            "Iset": 1000.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "1"
+        },
+        "fields": {
+            "Vmon": 0.12,
+            "Imon": 0.038,
+            "Vset": 30.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "2"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.136,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "3"
+        },
+        "fields": {
+            "Vmon": 0.26,
+            "Imon": 0.037,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "4"
+        },
+        "fields": {
+            "Vmon": 0.08,
+            "Imon": 0.048,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "5"
+        },
+        "fields": {
+            "Vmon": 0.2,
+            "Imon": 0.057,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "6"
+        },
+        "fields": {
+            "Vmon": 1.76,
+            "Imon": -2.161,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    },
+    {
+        "measurement": "DT1415",
+        "tags": {
+            "channel": "7"
+        },
+        "fields": {
+            "Vmon": 0.06,
+            "Imon": 0.039,
+            "Vset": 100.0,
+            "Iset": 105.0,
+            "Pw": false
+        }
+    }
+]
+2024-09-27 12:21:19,853 - INFO - Stopped periodic hardcopy creation.
