@@ -65,7 +65,7 @@ def start_screen_session(session_name):
 
 def connect_telnet_via_screen(session_name, ip, port):
     '''Start telnet in the screen session and send necessary commands.'''
-    command = f'screen -S {session_name} -X stuff "telnet {ip} {port}\n"'
+    command = f'screen -S {session_name} -X "telnet {ip} {port}\n"'
     subprocess.run(command, shell=True)
     log_action(f'Connecting to telnet {ip}:{port} in session: {session_name}')
 
